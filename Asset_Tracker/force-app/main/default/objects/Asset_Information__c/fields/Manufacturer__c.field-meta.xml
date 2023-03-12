@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Manufacturer__c</fullName>
+    <externalId>false</externalId>
+    <label>Manufacturer</label>
+    <required>false</required>
+    <trackTrending>false</trackTrending>
+    <type>Picklist</type>
+    <valueSet>
+        <restricted>true</restricted>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>ACER</fullName>
+                <default>false</default>
+                <label>ACER</label>
+            </value>
+            <value>
+                <fullName>Seagate</fullName>
+                <default>false</default>
+                <label>Seagate</label>
+            </value>
+            <value>
+                <fullName>CISCO</fullName>
+                <default>false</default>
+                <label>CISCO</label>
+            </value>
+            <value>
+                <fullName>Brother</fullName>
+                <default>false</default>
+                <label>Brother</label>
+            </value>
+            <value>
+                <fullName>HP</fullName>
+                <default>false</default>
+                <label>HP</label>
+            </value>
+            <value>
+                <fullName>Dell</fullName>
+                <default>false</default>
+                <label>Dell</label>
+            </value>
+            <value>
+                <fullName>Lenovo</fullName>
+                <default>false</default>
+                <label>Lenovo</label>
+            </value>
+            <value>
+                <fullName>Apple</fullName>
+                <default>false</default>
+                <label>Apple</label>
+            </value>
+            <value>
+                <fullName>Microsoft</fullName>
+                <default>false</default>
+                <label>Microsoft</label>
+            </value>
+            <value>
+                <fullName>Iball</fullName>
+                <default>false</default>
+                <label>Iball</label>
+            </value>
+            <value>
+                <fullName>DLink</fullName>
+                <default>false</default>
+                <label>DLink</label>
+            </value>
+            <value>
+                <fullName>Kingston</fullName>
+                <default>false</default>
+                <label>Kingston</label>
+            </value>
+            <value>
+                <fullName>Panasonic</fullName>
+                <default>false</default>
+                <label>Panasonic</label>
+            </value>
+            <value>
+                <fullName>UV TV</fullName>
+                <default>false</default>
+                <label>UV TV</label>
+            </value>
+            <value>
+                <fullName>Airtel Data</fullName>
+                <default>false</default>
+                <label>Airtel Data</label>
+            </value>
+            <value>
+                <fullName>JIO Data</fullName>
+                <default>false</default>
+                <label>JIO Data</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>
